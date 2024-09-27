@@ -1,7 +1,7 @@
 Olá, eu sou o Gilderlan! 👋
 
 🎯 Desenvolvedor em evolução | 🚀 Apaixonado por tecnologia | 💡 Aprendendo e criando
-Sobre mim
+
 
 Tenho 20 anos e sou um entusiasta de programação, sempre buscando novos desafios e maneiras de expandir meus conhecimentos. Meu foco atual está em desenvolvimento web, inteligência artificial, automação de tarefas, além de criação de jogos e bots. Adoro resolver problemas complexos e criar soluções eficientes que possam impactar a vida das pessoas.
 🛠️ Habilidades e Tecnologias
