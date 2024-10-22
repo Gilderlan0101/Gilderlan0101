@@ -31,6 +31,7 @@ Um projeto em Flask para criar um sistema de venda de passagens online, com logi
 
 💻 Site de Afiliados da Amazon
 Completei um projeto para divulgar promoções e ganhar comissões por meio do programa de afiliados da Amazon. Usei HTML, CSS, JavaScript e Flask para criar um sistema que automatiza a atualização de promoções e destaca as melhores ofertas para os usuários.
+
 📚 O que gosto de aprender
 
     Algoritmos e otimização de código
