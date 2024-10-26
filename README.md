@@ -1,6 +1,5 @@
-Aqui está o README atualizado com suas novas habilidades em JavaScript e Tailwind CSS:
 
----
+
 
 # Oi, me chamo Gilderlan! 👋
 
