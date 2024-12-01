@@ -7,7 +7,7 @@
 
 💻 Eu sou um desenvolvedor em evolução | 🚀 Apaixonado por tecnologia | 💡 Aprendendo e criando
 
-🎓 Eu estudo desenvolvimento de software com foco em Fullstack de forma autodidata há quase 2 anos.
+🎓 Eu estudo desenvolvimento de software com foco em Fullstack de forma autodidata há quase 3 anos.
 
 👩‍💻 Atualmente, estou desenvolvendo projetos pessoais em áreas como IA, automação de tarefas e desenvolvimento web.
 
